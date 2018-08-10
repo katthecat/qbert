@@ -1,0 +1,22 @@
+***READ ME***
+
+Before playing this game:
+	1. Place an arrow facing top-left on your 'Q' key
+	2. Place an arrow facing top-right on your 'W' key
+	3. Place an arrow facing bottom-left on your 'A' key
+	4. Place an arrow facing bottom-right on your 'S' key
+	
+These keys attempt to simulate the joystick motion found 
+in the original Q-bert game on a QWERTY keyboard. I know that they're unconventional,
+but this was the best I could do without hooking up an actual joystick
+to the computer.
+
+How to play Qbert:
+
+Qbert is an 80s arcade game, featuring a swearing character Qbert. Qbert tries to jump 
+around a pyramid and light up all the cubes. However, Qbert has to avoid enemies, which are
+purple or red colored. Green colored characters are not deadly, but make Qbert's life harder
+by messing with the cubes he has already lit up (e.g. by freezing unlit cubes so they can't be lit,
+etc.). There are also lifts, which are grey-colored and float along the side of the pyramid. Qbert can jump
+on these lifts to be lifted to the top of the pyramid.Advance through the levels, and get 
+the highest score possible.
